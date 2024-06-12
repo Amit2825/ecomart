@@ -5,7 +5,7 @@ Web Application hosted on Azure -> http://40.117.85.99/project2/
 
 GitHub Repository -> https://github.com/Amit2825/ecomart.git
 
-Project Documentation With Project Video-> Guide
+Project Documentation With Project Video-> <a href="https://drive.google.com/drive/folders/1NVn34KW0LPJmbQO1EzwwoAAQ_5U2wEIj?usp=drive_link" target="_blank">Guides</a>
 
 # Project Aim
 
