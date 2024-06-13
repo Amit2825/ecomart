@@ -15,7 +15,7 @@ The mission of the Ecomart project is to develop using the iterative model, whic
 
 # Azure Services Used
 1. Azure Virtual Machine service (To create and host the website online)
-2. Azure AI Service (An ai service(chatbot) integrated into the website)
+2. Azure AI Language Service (An AI service(chatbot) integrated into the website)
 3. Azure Monitor Alerts Service (Alerts notify you of conditions and can take corrective action)
 4. Azure Recovery Services vaults (To create a Backup of our Web App)
 
