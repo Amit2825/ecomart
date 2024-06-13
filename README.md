@@ -1,7 +1,7 @@
 # Ecomart
 
 # Working Links for the Project
-Web Application hosted on Azure -> http://40.117.85.99/project2/
+Web Application hosted on Azure -> http://40.117.85.99/ecomartwebsite/
 
 GitHub Repository -> https://github.com/Amit2825/ecomart.git
 
